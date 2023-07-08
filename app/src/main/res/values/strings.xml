@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Monitoring Lele</string>
+    <string name="list_peralatan">1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. \n 2. Nunc in tellus dignissim, ultrices orci a, malesuada ex. \n 3. Nam dictum lacus ultrices diam bibendum accumsan. \n 4. Suspendisse id felis eu eros eleifend lobortis.</string>
+
+    <string-array name="gerakan_lele">
+        <item>Galeri</item>
+        <item>Kamera</item>
+    </string-array>
+
+</resources>
